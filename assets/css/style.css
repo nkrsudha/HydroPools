@@ -7386,13 +7386,13 @@ ol.wp-block-rss {
 .breadcumb-wrapper {
     position: relative;
     background-color: var(--title-color);
-    padding: 310px 0 155px 0;
+    padding: 190px 0 25px 0;
     background-position: left center;
     overflow: hidden;
 }
 @media (max-width: 1199px) {
     .breadcumb-wrapper {
-        padding: 260px 0 120px 0;
+        padding: 190px 0 250px 0;
     }
     .breadcumb-menu {
         margin: 25px 0 -0.5em 0;
